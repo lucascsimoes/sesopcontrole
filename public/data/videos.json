@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "A BIOÉTICA E O PROJETO MORAL DA VIDA HUMANA TEMPO DE NASCER",
+        "initial": "PGBIO",
+        "category": "Palestra Gravada",
+        "speaker": "Lucia Frota Pestana de Aguiar",
+        "date": "19/08/2021",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "title": "SENSIBILIZAÇÃO E RESPONSABILIDADE SOCIOAMBIENTAL REDUÇÃO DE CONSUMO DE EMBALAGENS DESCARTÁVEIS E SEGREGAÇÃO DE RESÍDUOS SÓLIDOS",
+        "initial": "PGEMB",
+        "category": "Palestra Gravada",
+        "speaker": "Lucia Frota Pestana de Aguiar",
+        "date": "07/06/2023",
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "title": "VIOLÊNCIA CONTRA A MULHER E FEMINISMOS",
+        "initial": "PGMOS",
+        "category": "Palestra Gravada",
+        "speaker": "Lucia Frota Pestana de Aguiar",
+        "date": "19/05/2023",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "title": "VIDEOAULA AVALIAÇÃO ESPECIAL DE DESEMPENHO",
+        "initial": "WVAVS",
+        "category": "Videoaula",
+        "speaker": "Juiz Marco Antonio",
+        "date": "23/06/2023",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "title": "PROCESSAMENTO EM DÍVIDA ATIVA - AULA 04",
+        "initial": "VDL04",
+        "category": "Videoaula",
+        "speaker": "Marceli Antunes Fagundes",
+        "date": "05/04/2022",
+        "isActive": false
+    },
+    {
+        "id": 6,
+        "title": "SEMINÁRIO DE AUDITORIA INTERNA E COMPLIANCE",
+        "initial": "PGAUD",
+        "category": "Seminário",
+        "speaker": "Marceli Antunes Fagundes",
+        "date": "20/06/2023",
+        "isActive": true
+    },
+    {
+        "id": 7,
+        "title": "AUDITORIA INTERNA - UM PILAR PARA A TRANSPARÊNCIA E PRESTAÇÃO DE CONTAS",
+        "initial": "PGINN",
+        "category": "Seminário",
+        "speaker": "Jessé Torres",
+        "date": "14/06/2023",
+        "isActive": false
+    }
+]
