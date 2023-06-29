@@ -66,6 +66,7 @@ export default ({ change }) => {
     const closeModal = (e) => {
         if (e.target === modal.current) {
             setOpenModal(false);
+            
         }
     }
 

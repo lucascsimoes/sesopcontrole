@@ -6,12 +6,11 @@ export const Container = styled(Link) `
     align-items: center;
     justify-content: center;
     position: relative;
-    min-height: 180px;
+    min-height: 300px;
     padding: 20px;
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
-    overflow: auto;
     ${({ theme, type }) => css `
         background: ${theme.colors.background.secondary};
         border-top: 5px solid ${
@@ -22,7 +21,7 @@ export const Container = styled(Link) `
         }
     `};
 
-    &:hover:after {
+    /* &:hover:after {
         height: 100%;
         transition: .45s;
     }
@@ -50,7 +49,7 @@ export const Container = styled(Link) `
             theme.colors.mediumGray
         }
     `};
-    }
+    } */
 `
 
 export const Infos = styled.div `
@@ -71,5 +70,22 @@ export const Infos = styled.div `
 
     p {
         font-size: 13px;
+    }
+`
+
+export const Icon = styled.div `
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    border: 1px solid red;
+    ${({ theme }) => css `
+        background: ${theme.colors.background.secondary};
+    `};
+
+    img {
+        width: 50%;
     }
 `
